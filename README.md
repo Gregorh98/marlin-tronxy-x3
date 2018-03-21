@@ -1,4 +1,6 @@
 # Tronxy X3
+All the change in this branch will be done in the [Configuration.h](https://github.com/nslythe/marlin-tronxy-x3/blob/1.1.x/Marlin/Configuration.h) file, the change from the [original pbranch](https://github.com/MarlinFirmware/Marlin) will be merged in this one periodicaly.
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
